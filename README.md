@@ -14,10 +14,14 @@
 
   
 <br>
-  
-  🎓 광운대학교 소프트웨어학과 재학  
-  🦁 멋쟁이사자처럼 10th / 11th   
- 
+<p align="left">
+✏ 광운대학교 경영학과 입학<br>
+🏆비전공자 프로그래밍 전시회 우수상
+💳 SAP ERP/MM 취득<br>
+🦁 멋쟁이사자처럼 10th / 11th<br>
+👩‍🎓 광운대학교 소프트웨어학과 재학<br>
+
+</p>
 
   <br>
  
@@ -26,7 +30,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=solarized-light&langs_count=8"/>
   
   ## 👩‍💻 Skill
 
@@ -61,18 +65,21 @@
  <br><br><br>
  
  <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kseenyoung&theme=dracula"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kseenyoung&theme=solarized-light&show_icons=true"/>
 
    ## 🛠 Tools
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> 
+<br>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
 
 </div>
@@ -81,4 +88,6 @@
 
 
 <br><br><br><br><br><br>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkseenyoung&count_bg=%23FBEAFF&title_bg=%23CEB0D0&icon=skyliner.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
