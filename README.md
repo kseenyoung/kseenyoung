@@ -6,7 +6,7 @@
   
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=poper"/>
   
-## 🌱 About Me 🌱
+## 🌱 About Me  🌱
   
   <a href="https://seen-young.tistory.com"><img src="https://img.shields.io/badge/개발자취-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="https://www.notion.so/sin-young/189e763aaf944fa3965af87c588258ce"><img src="https://img.shields.io/badge/개발자취-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
