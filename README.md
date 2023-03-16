@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
 <!--   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp  -->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+<!--   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp  -->
 <!--   <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white"/></a>&nbsp  -->
 
 <!--   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp  -->
@@ -53,8 +53,9 @@
   <br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/PyTorch-092E20?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/sqlite-%2307405e?style=flat-square&logo=sqlite&logoColor=white"/></a>&nbsp 
+<!-- <img src="https://img.shields.io/badge/PyTorch-092E20?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp  -->
+<!-- <img src="https://img.shields.io/badge/sqlite-%2307405e?style=flat-square&logo=sqlite&logoColor=white"/></a>&nbsp -->
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>&nbsp 
 
 <br>
 
@@ -86,7 +87,10 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> 
 <br>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+<br> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+
 
 </div>
  
