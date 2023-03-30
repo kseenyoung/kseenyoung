@@ -15,7 +15,7 @@
 <br>
 <p align="center">
 ✏ 광운대학교 경영학과 입학<br>
-🏆비전공자 프로그래밍 전시회 우수상
+🏆비전공자 프로그래밍 전시회 우수상<br>
 💳 SAP ERP ABAP/MM 취득<br>
 🏅서울장학재단 서울우수인재장학생 1기/3기<br>
   🦁
@@ -90,9 +90,11 @@
 
 </div>
  
-<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=poper"/>
+<!--<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=poper"/> -->
    
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kseenyoung&theme=solarized-light&show_icons=true"/>
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=kseenyoung&theme=solarized-light&show_icons=true"/> -->
+
+
  
 </div>
 
@@ -100,4 +102,9 @@
 <br><br><br><br>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=poper)](https://solved.ac/poper)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkseenyoung&count_bg=%23FBEAFF&title_bg=%23CEB0D0&icon=skyliner.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
