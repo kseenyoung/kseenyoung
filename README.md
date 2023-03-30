@@ -4,7 +4,7 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=CC66CC&text=Sina's%20Page&height=120&fontSize=60&desc=Backend%20Developer&descAlignY=85&descAlign=60&animation=twinkling)
 <div align="center">
   
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=poper"/>
+
   
 ## 🌱 About Me  🌱
   
@@ -13,7 +13,7 @@
 <!--   <a href="https://www.notion.so/sin-young/189e763aaf944fa3965af87c588258ce"><img src="https://img.shields.io/badge/개발자취-ffffff?style=flat-square&logo=notion&logoColor=black"/></a> -->
   
 <br>
-<p align="left">
+<p align="center">
 ✏ 광운대학교 경영학과 입학<br>
 🏆비전공자 프로그래밍 전시회 우수상
 💳 SAP ERP ABAP/MM 취득<br>
@@ -27,15 +27,13 @@
 👩‍🎓 광운대학교 소프트웨어학과 재학<br>
 
 </p>
-
-  <br>
  
 </div>
 
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=solarized-light&langs_count=8"/>
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=solarized-light&langs_count=8"/> -->
   
   ## 👩‍💻 Skill
 
@@ -68,16 +66,15 @@
 <!--   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp  -->
  
  
- <br><br><br>
  
  <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kseenyoung&theme=solarized-light&show_icons=true"/>
+
 
    ## 🛠 Tools
 
-<p align="center">
+<p align="right">
 
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a> 
+<!-- <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>  -->
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
@@ -92,6 +89,10 @@
 
 
 </div>
+ 
+<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=poper"/>
+   
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kseenyoung&theme=solarized-light&show_icons=true"/>
  
 </div>
 
