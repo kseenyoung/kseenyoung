@@ -30,6 +30,7 @@
  
 </div>
 
+<br>
 
 <div align="center">
   
@@ -68,7 +69,7 @@
  
  
  <div align="center">
-
+<br>
 
    ## 🛠 Tools
 
@@ -99,7 +100,8 @@
 </div>
 
 
-<br><br>
+<br>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer)
 
 [![Solved.ac
