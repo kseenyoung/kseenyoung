@@ -17,7 +17,7 @@
 <!-- ✏ 광운대학교 경영학과 입학<br> -->
 🏆비전공자 프로그래밍 전시회 우수상<br>
 💳 SAP ERP ABAP/MM 취득<br>
-🏅서울장학재단 서울우수인재장학생 1기/3기<br>
+🏅서울장학재단 서울우수인재장학생 1기/ 3기<br>
   🦁
 <!--   <a href="https://www.likelion.net/"> -->
     멋쟁이 사자처럼
@@ -36,7 +36,7 @@
   
 <!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=solarized-light&langs_count=8"/> -->
   
-  ## 👩‍💻 Skill
+  ## 👩‍💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -58,7 +58,6 @@
 <br>
 
 <!-- <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> -->
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/></a>
 
 
 <!--   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp  -->
@@ -68,28 +67,30 @@
  
  
  
- <div align="center">
+<!--  <div align="center">
 <br>
 
    ## 🛠 Tools
 
 <p align="right">
-
+ -->
 <!-- <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>  -->
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> -->
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> 
 <br>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 <br> 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/></a>
 
 
-</div>
+
+<!-- </div> -->
  
 <!--<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=poper"/> -->
    
