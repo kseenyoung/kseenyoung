@@ -11,6 +11,8 @@
 <a href="https://seen-young.tistory.com"><img src="https://img.shields.io/badge/TiStory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://blog.naver.com/kseenyoung_"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <!--   <a href="https://www.notion.so/sin-young/189e763aaf944fa3965af87c588258ce"><img src="https://img.shields.io/badge/개발자취-ffffff?style=flat-square&logo=notion&logoColor=black"/></a> -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=poper)](https://solved.ac/poper)
   
 <br>
 <p align="center">
@@ -103,10 +105,9 @@
 
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=poper)](https://solved.ac/poper)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkseenyoung&count_bg=%23FBEAFF&title_bg=%23CEB0D0&icon=skyliner.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
