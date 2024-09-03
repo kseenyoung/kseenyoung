@@ -10,7 +10,7 @@
 ## 🌱 About Me  🌱
   
 <a href="https://seen-young.tistory.com"><img src="https://img.shields.io/badge/TiStory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="https://blog.naver.com/kseenyoung_"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<!-- <a href="https://blog.naver.com/kseenyoung_"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> -->
 <!--   <a href="https://www.notion.so/sin-young/189e763aaf944fa3965af87c588258ce"><img src="https://img.shields.io/badge/개발자취-ffffff?style=flat-square&logo=notion&logoColor=black"/></a> -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=poper)](https://solved.ac/poper)
