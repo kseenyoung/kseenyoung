@@ -1,7 +1,7 @@
 
 <!-- **kseenyoung/kseenyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD700&text=Poper's%20Page&height=120&fontSize=60&desc=Backend%20Developer&descAlignY=85&descAlign=60&animation=twinkling)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD700&text=Sinyoung's%20Page&height=120&fontSize=60&desc=Backend%20Developer&descAlignY=85&descAlign=60&animation=twinkling)
 <div align="center">
   
 
